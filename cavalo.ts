@@ -5,6 +5,6 @@ export class Cavalo extends Animal{
         console.log("Correndo....")
     }
 }
-var cavalo = new Cavalo("Alazão", 7, "Nhirinririii");
+var cavalo = new Cavalo("Alazão", 7, "Nherinririii");
 cavalo.mostar();
 cavalo.correr();
